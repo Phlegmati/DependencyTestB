@@ -1,6 +1,6 @@
 {
     "name": "com.cura3d.dep-b",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Dependency Test B",
     "description": "This is a test package",
     "unity": "2020.3",
@@ -8,7 +8,5 @@
       "name": "Nico",
       "email": "nico.mahler@cura3d.de",
       "url": "https://www.cura3d.de"
-    },
-  "enableLockFile": true,
-  "resolutionStrategy": "highest"
+    }
   }
