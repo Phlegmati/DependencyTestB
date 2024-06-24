@@ -4,6 +4,6 @@ public class DepB : DepA
 {
     public DepB()
     {
-        isA = false;
+        isA = false; //v 0.0.3?
     }
 }
