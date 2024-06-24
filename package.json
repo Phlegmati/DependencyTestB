@@ -4,9 +4,6 @@
     "displayName": "Dependency Test B",
     "description": "This is a test package",
     "unity": "2020.3",
-    "dependencies": {
-      "com.cura3d.dep-a": "https://github.com/Phlegmati/DependencyTestA.git"
-   },
     "author": {
       "name": "Nico",
       "email": "nico.mahler@cura3d.de",
