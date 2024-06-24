@@ -8,5 +8,7 @@
       "name": "Nico",
       "email": "nico.mahler@cura3d.de",
       "url": "https://www.cura3d.de"
-    }
+    },
+  "enableLockFile": true,
+  "resolutionStrategy": "highest"
   }
